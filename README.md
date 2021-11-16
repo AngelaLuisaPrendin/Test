@@ -5,4 +5,4 @@ fjfjhghgjhgjh
 
 **bold text**
 
-![a picture](small jc.JPG)
+![a picture](small_jc.JPG)
